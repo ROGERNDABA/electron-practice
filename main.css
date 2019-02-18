@@ -1,0 +1,57 @@
+.app-title {
+    color: #ff7eff;
+    font-family: Consolas;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.navbar {
+    -webkit-app-region: drag;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 0.2rem 1rem;
+    background-color: #ff00ff29;
+}
+
+li {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+}
+
+.fas {
+    -webkit-app-region: no-drag;
+    font-size: x-small;
+    padding: .2rem;
+    border-radius: 35%;
+}
+
+.fas:hover {
+    cursor: pointer;
+}
+
+i.fas.fa-times {
+    padding: .24rem;
+    background-color: red;
+}
+
+i.fas.fa-window-maximize {
+    background-color: yellow;
+}
+
+i.fas.fa-window-minimize {
+    background-color: #04e522;
+}
+
+.col {
+    -webkit-app-region: no-drag;
+    padding-right: 5px;
+    padding-left: 3px;
+}
+
+#click {
+    -webkit-app-region: no-drag;
+}

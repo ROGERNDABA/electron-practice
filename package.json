@@ -1,0 +1,14 @@
+{
+  "name": "testelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.5"
+  }
+}
