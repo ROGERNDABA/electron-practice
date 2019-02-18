@@ -16,6 +16,7 @@ and normal js/jquery UI display on
 the html side.
 
 you need to...
+`renderer.js`
 ```javascript
 const {
     remote,
